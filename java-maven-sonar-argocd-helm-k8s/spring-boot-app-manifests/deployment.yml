@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: vaibhavbankar/relaseImageTag
+        image: vaibhavbankar/ultimatecicd:relaseImageTag
         ports:
         - containerPort: 8080
